@@ -257,6 +257,3 @@ User submits form
 - **DynamoDB on-demand** is cost-effective for low-traffic internal tools
 - **CloudFront as unified entry point** simplifies CORS and certificate management
 
----
-
-*This document describes a personal portfolio project. All organization-specific identifiers, domains, account IDs, and credentials have been removed.*
